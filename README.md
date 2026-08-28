@@ -7,3 +7,4 @@ we're checking at laeast 10
 come come
 almost there
 stay on target
+bombs away
